@@ -45,7 +45,7 @@
 </head>
 <body>
     <div>
-        <h2>Order List</h2>
+        <h1>Order List</h1>
     </div>
     <table id="example" class="display" style="width:100%">
         <thead>
