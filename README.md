@@ -1,2 +1,2 @@
 # pagination
-custom pagination in core php  using datatable 
+Custom Pagination in Core php  using Datatable 
